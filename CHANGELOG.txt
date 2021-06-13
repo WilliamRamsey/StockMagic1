@@ -1,0 +1,9 @@
+Change Log
+==========
+
+0.0.1 (Pre-release) -- 6/12/2021
+Implemented Following Features:
+
+Fixed Following Bugs:
+
+Additional notes:
