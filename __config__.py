@@ -8,6 +8,11 @@ name = Path(__file__).name
 full = str(path) + "/" + str(name)
 absp = full.split("/")
 
+<<<<<<< HEAD
+=======
+stockmagic_path = path + "/" + "StockMagic"
+os.makedirs(stockmagic_path)
+>>>>>>> Initial commit
 
 
 
